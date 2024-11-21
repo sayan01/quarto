@@ -1,0 +1,17 @@
+project:
+  title: "demo"
+
+jupyter:
+  path: ~/.quarto-python/bin/jupyter
+
+toc: true
+author: "Sayan Ghosh"
+number-sections: true
+
+format:
+  html:
+    html-math-method: katex
+  pdf:
+      documentclass: report
+      margin-left: 30mm
+      margin-right: 30mm
